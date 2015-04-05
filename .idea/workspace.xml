@@ -2,100 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15f664c3-c955-4404-a06f-dde39e880d66" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/avatar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extra/paper.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie/PIE.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_vars.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.scrolly.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.scrollzer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sezinkarli.github.io.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/skel-layers.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/skel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/skel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-large.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/style-large.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-medium.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/style-medium.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-small.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/style-small.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-xlarge.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/style-xlarge.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-xsmall.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/style-xsmall.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie/v8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/ie/v8.scss" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\personal website.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\README.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\css\font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\css\ie\PIE.htc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\css\ie\html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\css\ie\v8.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\css\skel.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\css\style-large.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\css\style-medium.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\css\style-small.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\css\style-xlarge.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\css\style-xsmall.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\extra\paper.pdf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\fonts\fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\images\avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\images\banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\images\pic01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\images\pic02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\images\pic03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\js\init.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\js\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\js\jquery.scrolly.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\js\jquery.scrollzer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\js\skel-layers.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\js\skel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\sass\_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\sass\_vars.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\sass\ie\v8.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\sass\style-large.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\sass\style-medium.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\sass\style-small.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\sass\style-xlarge.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\sass\style-xsmall.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\sass\style.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\sezinkarli.github.io\website\website.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sezinkarli.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="15f664c3-c955-4404-a06f-dde39e880d66" time="1428254428145" ignored="false" />
+    <file path="/Dummy.txt" changelist="15f664c3-c955-4404-a06f-dde39e880d66" time="1428254490506" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,13 +68,18 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="29" selection-start="230" selection-end="230" vertical-scroll-proportion="0.28073394">
+            <state line="9" column="29" selection-start="230" selection-end="230" vertical-scroll-proportion="0.28176796">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -232,9 +148,13 @@
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RunManager">
@@ -309,13 +229,18 @@
       <created>1428254421902</created>
       <updated>1428254421902</updated>
     </task>
+    <task id="LOCAL-00001" summary="changed folder structure">
+      <created>1428254533358</created>
+      <updated>1428254533358</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296582" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -324,12 +249,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.6710671" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.6703418" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -378,7 +304,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed folder structure" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -391,6 +317,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="changed folder structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -398,7 +325,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="29" selection-start="230" selection-end="230" vertical-scroll-proportion="0.28073394">
+        <state line="9" column="29" selection-start="230" selection-end="230" vertical-scroll-proportion="0.28176796">
           <folding />
         </state>
       </provider>
