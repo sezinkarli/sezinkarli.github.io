@@ -439,6 +439,7 @@
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
+			margin-right: 4px;
 		}
 
 		.icon > .label {
