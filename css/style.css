@@ -49,6 +49,7 @@
 
 	p {
 		margin: 0 0 2.25em 0;
+        text-align: justify;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -198,6 +199,9 @@
 			margin-top: -0.75em;
 		}
 
+    #title-p {
+        text-align: center;
+    }
 /* Form */
 
 	form {
@@ -576,7 +580,7 @@
 
 			ul.icons li {
 				display: inline-block;
-				padding: 0 1em 0 0;
+				padding: 0 0.3em 0 0;
 			}
 
 				ul.icons li:last-child {
@@ -920,7 +924,7 @@
 		position: fixed;
 		text-align: center;
 		top: 0;
-		width: 23em;
+		width: 18em;
 		right: 0;
 	}
 
@@ -1006,6 +1010,10 @@
 					text-decoration: none;
 				}
 
+                #header > nav ul li a:hover {
+                   background: #5ccfb0;
+                }
+
 					#header > nav ul li a.active {
 						background: #fff;
 						color: #4acaa8 !important;
@@ -1019,7 +1027,7 @@
 
 	#wrapper {
 		background: #fff;
-		padding-right: 23em;
+		padding-right: 18em;
 	}
 
 /* Main */
@@ -1056,7 +1064,7 @@
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
-		padding: 4em 0 2em 0;
+		padding: 0 0 0 0;
 	}
 
 		#footer .copyright {
