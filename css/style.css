@@ -574,7 +574,7 @@
 		ul.icons {
 			cursor: default;
 			list-style: none;
-			padding-left: 0;
+			padding: 10000;
 		}
 
 			ul.icons li {
@@ -951,7 +951,7 @@
 			}
 
 		#header > header {
-			padding: 3em;
+			padding: 1.5em;
 		}
 
 			#header > header .avatar {
@@ -975,12 +975,11 @@
 			bottom: 0;
 			left: 0;
 			padding: 2em;
-			position: absolute;
 			width: 100%;
 		}
 
 			#header > footer .icons {
-				margin: 0;
+				margin: 100;
 			}
 
 				#header > footer .icons li a {
@@ -1008,7 +1007,7 @@
 					border: 0;
 					color: #ffffff !important;
 					display: block;
-					padding: 0.85em 0;
+					padding: 0.75em 0;
 					text-decoration: none;
 				}
 
